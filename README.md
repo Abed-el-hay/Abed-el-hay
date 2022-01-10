@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abed-el-hay
 - 👀 I’m interested in hacking, bug hunting, programing , open source projects
-- 🌱 I’m currently learning c++,Bash scripting, web app vulnerabilities
+- 🌱 I’m currently learning Bash scripting, web app vulnerabilities
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @ab3d_hay or mohamad.abedhay1@gmail.com
 
